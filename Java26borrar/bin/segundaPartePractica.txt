@@ -1,0 +1,7 @@
+Una ver realizada la primera parte sobre el registro del tipo de datos a elegir por el programador
+completar la aplicacion realizando un listado en el panel corespondiente donde se muestren las informaciones
+que se han ido guardando en base de datos. dicho listado debera ser realizado con un JTable.
+
+opcionales:
++Agregar al listado un boton de borrar y un boton de editar.
+
